@@ -1,0 +1,117 @@
+/* common css start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+/* common css end  */
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+  background-color: #202124;
+   padding: 100px 20px;
+   display: flex;
+   flex-direction: column;
+
+
+}
+
+
+.container h1{
+    color: #E8EAED;
+}
+
+
+
+button{
+    width: 100%;
+    padding: 15px 0;
+    border: none;
+    text-align: left;
+    border-bottom: 1px solid#3C4043;
+    color: #E8EAED;
+    text-transform: uppercase;
+    background: #202124;
+    cursor: pointer;
+}
+
+.container h1{
+border-bottom: 1px solid #3C4043;
+}
+
+.one{
+
+ color: #fff;
+ display: none;
+    
+}
+
+.two{
+
+ color: #fff;
+ display: none;
+    
+}
+
+.three{
+
+ color: #fff;
+ display: none;
+    
+}
+
+.four{
+
+ color: #fff;
+ display: none;
+    
+}
+
+.five{
+
+ color: #fff;
+ display: none;
+    
+}
+
+.six{
+
+ color: #fff;
+ display: none;
+    
+}
+.six{
+
+ color: #fff;
+ display: none;
+    
+}
+.seven{
+
+ color: #fff;
+ display: none;
+    
+}
+.eight{
+
+ color: #fff;
+ display: none;
+    
+}
+.nine{
+
+ color: #fff;
+ display: none;
+    
+}
+.ten{
+
+ color: #fff;
+ display: none;
+    
+}
+
+
